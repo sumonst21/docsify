@@ -88,7 +88,7 @@
     "autoprefixer-stylus": "^1.0.0",
     "axios": "^1.5.0",
     "babel-jest": "^27.4.6",
-    "browser-sync": "^2.26.12",
+    "browser-sync": "^3.0.3",
     "chokidar": "^3.4.2",
     "common-tags": "^1.8.0",
     "conventional-changelog-cli": "^3.0.0",
@@ -112,7 +112,7 @@
     "rimraf": "^3.0.0",
     "rollup": "^3.25.3",
     "serve-handler": "^6.1.2",
-    "stylus": "^0.60.0",
+    "stylus": "^0.64.0",
     "vue2": "npm:vue@^2.6.12",
     "vue3": "npm:vue@^3.0.0",
     "xhr-mock": "^2.5.1"
